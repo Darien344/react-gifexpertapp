@@ -7,7 +7,6 @@ export const GifExpertApp = () => {
 
   const [categoria, setCategoria] = useState(['One Punch']); 
 
-
   return (
     <>
         <h2>GifExpertApp</h2>
