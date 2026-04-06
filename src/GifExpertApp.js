@@ -8,12 +8,6 @@ export const GifExpertApp = () => {
   const [categoria, setCategoria] = useState(['One Punch']); 
 
 
-    // const handleAdd = () =>{
-
-    //     setCategoria(cats => [...categoria, 'titico'])
-    // }
-
-
   return (
     <>
         <h2>GifExpertApp</h2>
